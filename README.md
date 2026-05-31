@@ -1,4 +1,4 @@
-# 🌤️ NeuralSky: AI-Powered Weather Recognition System
+<img width="838" height="680" alt="image" src="https://github.com/user-attachments/assets/05256b40-5de4-4787-ae16-04d08410c834" /># 🌤️ NeuralSky: AI-Powered Weather Recognition System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -31,17 +31,21 @@ The core vision engine was trained on Kaggle using a T4 GPU. By freezing the bas
 * **Real-World Confidence:** Consistently hits **99%+** confidence on test images.
 
 ### Training Metrics (Accuracy & Loss)
-![Training Graphs](your-graph-image.png)
+<img width="1665" height="784" alt="Screenshot 2026-05-31 203545" src="https://github.com/user-attachments/assets/43d9093c-1f50-4078-935b-209ddbf843e3" />
+<img width="601" height="326" alt="Screenshot 2026-05-31 203601" src="https://github.com/user-attachments/assets/c8e80b8b-1fb0-418a-a2d9-8e920bac6679" />
+<img width="838" height="680" alt="Screenshot 2026-05-31 204351" src="https://github.com/user-attachments/assets/422ec726-13bb-4438-9119-bc7026db4efa" />
 
 ---
 
 ## 📸 Application Gallery
 
 ### 1. The Interface
-![UI Screenshot - Sunrise](your-ui-image1.png)
+<img width="630" height="758" alt="image" src="https://github.com/user-attachments/assets/a82363fb-ff97-4239-adc8-79ad68ba582a" />
+
 
 ### 2. High-Confidence Predictions
-![UI Screenshot - Rain](your-ui-image2.png)
+<img width="607" height="681" alt="image" src="https://github.com/user-attachments/assets/7e1d2dca-d527-4b27-84f6-ba34ec07936a" />
+
 
 ---
 
