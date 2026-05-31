@@ -61,17 +61,16 @@ The core vision engine was trained on Kaggle using a T4 GPU. By freezing the bas
 If you want to test the model yourself, follow these steps:
 
 **1. Clone the repository**
-```bash
-git clone [https://github.com/ShwetaPatil2005/NeuralSky-AI-Powered-Weather-Recognition-System.git](https://github.com/ShwetaPatil2005/NeuralSky-AI-Powered-Weather-Recognition-System.git)
-cd NeuralSky-AI-Powered-Weather-Recognition-System
+
+* git clone [https://github.com/ShwetaPatil2005/NeuralSky-AI-Powered-Weather-Recognition-System.git](https://github.com/ShwetaPatil2005/NeuralSky-AI-Powered-Weather-Recognition-System.git)
+* cd NeuralSky-AI-Powered-Weather-Recognition-System
 
 **2. Install Dependencies**
+* pip install fastapi uvicorn python-multipart tensorflow pillow numpy
 
-Bash
-pip install fastapi uvicorn python-multipart tensorflow pillow numpy
-3. Start the FastAPI Server
 
-Bash
-uvicorn main:app --reload
-4. Launch the Frontend
-Simply double-click the index.html file to open it in your browser and start classifying images!
+**3. Start the FastAPI Server**
+* uvicorn app:app --reload
+
+**4. Launch the Fronten**
+* Simply double-click the index.html file to open it in your browser and start classifying images!
