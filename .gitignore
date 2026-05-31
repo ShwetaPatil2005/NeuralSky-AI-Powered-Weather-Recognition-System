@@ -1,0 +1,12 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+weather/
+env/
+venv/
+
+# OS hidden files
+.DS_Store
+Thumbs.db
