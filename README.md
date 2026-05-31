@@ -1,4 +1,4 @@
-<img width="838" height="680" alt="image" src="https://github.com/user-attachments/assets/05256b40-5de4-4787-ae16-04d08410c834" /># 🌤️ NeuralSky: AI-Powered Weather Recognition System
+# 🌤️ NeuralSky: AI-Powered Weather Recognition System
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
